@@ -9,7 +9,7 @@
 
 ## Setup Instructions
 
-- Clone the repository by running git clone https://github.com/yourusername/selenium-webdriver-setup.git
+- Clone the repository by running git clone https://github.com/MogaleMaps/GK_Web_Assessment.git
 - Import the project into IntelliJ by selecting the build.gradle file and click open as project
 
 ## Running the test
