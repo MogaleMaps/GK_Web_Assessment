@@ -4,7 +4,7 @@
 
 ## Pre-requisites 
 - Install JDK 11
-- Gradle to manage dependencies
+- Gradle v.8.9 to manage dependencies
 
 
 ## Setup Instructions

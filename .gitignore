@@ -1,0 +1,5 @@
+# Ignore build files
+build/
+
+# Ignore configuration files
+# config.properties
